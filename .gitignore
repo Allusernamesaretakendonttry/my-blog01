@@ -1,0 +1,31 @@
+# General
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+.env
+.venv
+venv/
+.envrc
+
+# Django specific
+db.sqlite3
+db.sqlite3-journal
+/media/
+staticfiles/
+
+# Logs and Debug
+logs/
+*.log
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
