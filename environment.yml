@@ -1,0 +1,27 @@
+name: MyDjangoEnv
+channels:
+  - defaults
+dependencies:
+  - asgiref=3.8.1
+  - bzip2=1.0.8
+  - ca-certificates=2024.9.24
+  - django=4.1
+  - libffi=3.4.4
+  - openssl=3.0.15
+  - pip=24.2
+  - python=3.10.14
+  - python-tzdata=2023.3
+  - setuptools=75.1.0
+  - sqlite=3.45.3
+  - sqlparse=0.4.4
+  - tk=8.6.14
+  - typing_extensions=4.11.0
+  - tzdata=2024a
+  - vc=14.40
+  - vs2015_runtime=14.40.33807
+  - wheel=0.44.0
+  - xz=5.4.6
+  - zlib=1.2.13
+  - pip:
+      - python-dateutil==2.9.0.post0
+      - six==1.16.0
